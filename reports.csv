@@ -2,12 +2,12 @@ state,age,gender,mstatus,prefrence,profession,lastorderbefore,lastorderPrice,rem
 Bihar,23,male,single,veg,student,12,2100,yes
 Delhi,32,female,married,veg,professional,15,1600,yes
 Karnataka,22,male,single,veg,student,18,1450,no
-Punjab,29,female,,nonveg,professional,17,1660,
+Punjab,29,female,,nonveg,professional,17,1660,yes
 Bihar,25,male,single,veg,professional,35,1290,no
 Punjab,32,male,married,nonveg,professional,,1360,no
 Karnataka,23,female,,nonveg,student,,1200,no
 Bihar,25,female,married,,professional,12,2500,yes
-Punjab,26,male,single,veg,student,21,2210,
+Punjab,26,male,single,veg,student,21,2210,no
 Bihar,28,male,married,,professional,12,2200,yes
 Delhi,31,male,married,nonveg,professional,,1530,yes
 Karnataka,21,female,single,nonveg,student,11,,yes
@@ -16,6 +16,6 @@ Delhi,28,female,single,veg,professional,15,1580,no
 Delhi,32,male,married,veg,professional,17,1360,yes
 Bihar,21,female,married,nonveg,student,1,,no
 Delhi,29,male,single,nonveg,professional,10,1820,yes
-Karnataka,21,female,married,nonveg,student,24,1580,
+Karnataka,21,female,married,nonveg,student,24,1580,no
 Punjab,28,male,single,veg,professional,26,1340,no
 Karnataka,31,male,married,veg,professional,32,,yes
